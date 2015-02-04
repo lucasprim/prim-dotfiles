@@ -1,0 +1,47 @@
+# Prim Dotfiles
+
+**Heavily** influenced and copied from [YADR](https://github.com/skwp/dotfiles).
+
+# Motivation
+
+I decided to create this vimfiles because YADR was being way too slow.
+
+# Keybindings and niceties
+
+## Vim
+
+### Interface
+* On completion (like on performing a `:e file` and pressing Tab), use **Ctrl+P** and **Ctrl+N** to navigate through the results.
+* **,qc** - Close quickfix
+* **,qo** - Open quickfix
+* **,z** - Navigate to previous buffer
+* **,x** - Navigate to next buffer
+* **vv** - Split window vertically
+* **ss** - Split window horizontally
+* **//** - Clear current search highlight
+
+### Words
+* **,yw** - Yanks the selected word.
+* **,"** - Surround a word with quotes ("")
+* **,'** - Surround a word with single quotes ("")
+* **,(** or **,)** - Surround a word with parens ()
+* **,[** or **,]** - Surround a word with brackets []
+* **,{** or **,}** - Surround a word with braces {}
+
+### Navigation
+* **^** - Go to the beginning of the line instead of first character (**0**)
+* **,.** - Go to the last edit location
+* **<C-a>** - Auto close the quote and get past the quote
+
+### Ruby
+* **,#** - Surrounds a word with #{} (ruby interpolation)
+* **<C-K>** - Create <%= %> ERB tags (edit mode)
+* **<C-J>** - Create <% %> ERB tags (edit mode)
+
+### NERDTree
+* **<C-\> - Open project tree with current file in the NERDTree
+
+### Misc
+* **,cf** - Copies current filename with path to clipboard
+* **,cn** - Copes current filename (without path) to clipboard
+

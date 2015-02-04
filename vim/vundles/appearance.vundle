@@ -1,0 +1,10 @@
+" Solarized is the best color scheme ever :)
+Bundle "altercation/vim-colors-solarized"
+
+" Lightline modifies the status line to be awesome (w/ colors and other nice stuff)
+Bundle "itchyny/lightline.vim"
+
+"Bundle "chrisbra/color_highlight.git"
+"Bundle "jby/tmux.vim.git"
+"Bundle "morhetz/gruvbox"
+"Bundle "xsunsmile/showmarks.git"
