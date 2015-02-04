@@ -24,10 +24,10 @@ runtime appearance.vundle
 runtime project.vundle
 runtime languages.vundle
 runtime git.vundle
-"runtime ruby.vundle
-"runtime textobjects.vundle
+runtime ruby.vundle
+runtime textobjects.vundle
 runtime search.vundle
-"runtime vim-improvements.vundle
+runtime vim-improvements.vundle
 
 "Filetype plugin indent on is required by vundle
 filetype plugin indent on
