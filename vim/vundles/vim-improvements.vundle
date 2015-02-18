@@ -4,6 +4,9 @@ Bundle "tpope/vim-surround.git"
 " Allow to create and toggle commends
 Bundle "tomtom/tcomment_vim.git"
 
+" Automatic generation of CTags
+Bundle "vim-scripts/AutoTag.git"
+
 "Bundle "AndrewRadev/splitjoin.vim"
 "Bundle "Raimondi/delimitMate"
 "Bundle "Shougo/neocomplete.git"
@@ -27,7 +30,6 @@ Bundle "tomtom/tcomment_vim.git"
 "Bundle "tpope/vim-repeat.git"
 "Bundle "tpope/vim-unimpaired"
 "Bundle "vim-scripts/AnsiEsc.vim.git"
-"Bundle "vim-scripts/AutoTag.git"
 "Bundle "vim-scripts/lastpos.vim"
 "Bundle "vim-scripts/sudo.vim"
 "Bundle "goldfeld/ctrlr.vim"

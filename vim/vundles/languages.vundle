@@ -4,18 +4,25 @@ Bundle "scrooloose/syntastic.git"
 " JavaScript bundle for vim with syntax and indent plugins
 Bundle "pangloss/vim-javascript"
 
+" JSHint for vim (kind of JSLint but better)
+Bundle "wookiehangover/jshint.vim"
+
 " Adds coloration for jQuery keywords and css selectors
 Bundle "itspriddle/vim-jquery.git"
+
+" Preview markdown in browser with :Mm
+Bundle "nelstrom/vim-markdown-preview"
+
+" Github flavored markdown support
+Bundle "jtratner/vim-flavored-markdown.git"
 
 "Bundle "briancollins/vim-jst"
 "Bundle "rodjek/vim-puppet"
 "Bundle "othree/javascript-libraries-syntax.vim"
 "Bundle "digitaltoad/vim-jade.git"
 "Bundle "groenewege/vim-less.git"
-"Bundle "jtratner/vim-flavored-markdown.git"
 "Bundle "kchmck/vim-coffee-script"
 "Bundle "garbas/vim-snipmate.git"
-"Bundle "nelstrom/vim-markdown-preview"
 "Bundle "skwp/vim-html-escape"
 "Bundle "tpope/vim-haml"
 "Bundle "honza/vim-snippets"

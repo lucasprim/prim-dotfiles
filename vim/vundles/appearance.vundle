@@ -6,5 +6,8 @@ Bundle "itchyny/lightline.vim"
 
 "Bundle "chrisbra/color_highlight.git"
 "Bundle "jby/tmux.vim.git"
+
+" Alternative Colorscheme
 "Bundle "morhetz/gruvbox"
+
 "Bundle "xsunsmile/showmarks.git"

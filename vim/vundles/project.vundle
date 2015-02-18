@@ -1,5 +1,9 @@
+" Nerd Tree - Source Tree navigation
 Bundle "scrooloose/nerdtree.git"
+
+" Ctrl + P - Fuzzy Finder
 Bundle "kien/ctrlp.vim"
+
 "Bundle "jistr/vim-nerdtree-tabs.git"
 "Bundle "xolox/vim-misc"
 "Bundle "xolox/vim-session"
