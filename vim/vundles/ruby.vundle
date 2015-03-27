@@ -7,8 +7,8 @@ Bundle "tpope/vim-rvm.git"
 " Add bundler support and commands for vim
 Bundle "tpope/vim-bundler"
 
-" Changes Ruby syntax to 1.9 using command :ChangeHashSyntax
-"Bundle "ck3g/vim-change-hash-syntax"
+" Adds rspec commands to vim
+Bundle "thoughtbot/vim-rspec"
 
 "Bundle "ecomba/vim-ruby-refactoring"
 "Bundle "tpope/vim-rails.git"
@@ -16,3 +16,5 @@ Bundle "tpope/vim-bundler"
 "Bundle "Keithbsmiley/rspec.vim"
 "Bundle "skwp/vim-iterm-rspec"
 "Bundle "skwp/vim-spec-finder"
+"Changes Ruby syntax to 1.9 using command :ChangeHashSyntax
+"Bundle "ck3g/vim-change-hash-syntax"

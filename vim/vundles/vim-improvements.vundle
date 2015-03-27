@@ -7,6 +7,9 @@ Bundle "tomtom/tcomment_vim.git"
 " Automatic generation of CTags
 Bundle "vim-scripts/AutoTag.git"
 
+" Class outline viewer based on CTags
+Bundle "majutsushi/tagbar"
+
 "Bundle "AndrewRadev/splitjoin.vim"
 "Bundle "Raimondi/delimitMate"
 "Bundle "Shougo/neocomplete.git"
